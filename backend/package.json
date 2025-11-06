@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "build/main.js",
+  "scripts": {
+    "start": "nodemon --watch src --ext ts --exec \"node src/main.js\""
+  },
+  "keywords": [],
+  "author": "Anshika Asati",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
